@@ -8,8 +8,8 @@ import sys
 import codecs
 
 
-name = 'python-slugify'
-package = 'slugify'
+name = 'pslugify'
+package = 'pslugify'
 description = 'A Python Slugify application that handles Unicode'
 url = 'https://github.com/un33k/python-slugify'
 author = 'Val Neekman'
